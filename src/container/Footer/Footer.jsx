@@ -39,8 +39,10 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2021 Gericht. All Rights reserved.</p>
-    </div>
+  <p className="p__opensans">
+    <a href="https://agency.eleganta.studio/" className="p__opensans" >2022 Eleganta</a>. All Rights reserved.
+  </p>
+</div>
 
   </div>
 );
